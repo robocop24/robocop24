@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhail Riyaz</h1>
-<h3 align="center">Experienced software engineer with a passion for crafting dynamic user experiences.</h3>
+<h3 align="center">Software engineer passionate about designing intelligent systems that integrate business processes with AI‑driven automation and data management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robocop24&label=Profile%20views&color=0e75b6&style=flat" alt="robocop24" /> </p>
 

@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robocop24" alt="robocop24" /></a> </p>
 
-- 🔭 I’m currently working on [HealthHub](https://healthhub.pages.dev/)
+- 🔭 I’m currently working on [BA Copilot - Agentic AI Business Analyst Assistant](https://github.com/robocop24/ba-copilot)
 
-- 🌱 I’m currently learning **React-Redux and Django**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-sr.pages.dev/](https://personal-portfolio-sr.pages.dev/)
 
